@@ -11,11 +11,11 @@
 
 # Live Site
 
-- [Weather App](https://dazzling-gumdrop-6aed62.netlify.app)
+- [Weather App](https://god-lang.github.io/weather_app-main/)
 
 
 # Source of code 
 
- - [@Kenizaya](https://github.com/kenizaya/weather-app/blob/main/script.js) - I used this person's code because it was easier for me to follow and understand.
+ - [@Asif](https://github.com/GOD-lang/weather_app-main) - I used this person's code because it was easier for me to follow and understand.
  
  - I did some things differently such as adding different images according to the weather, fahrenheit to celsius conversion, changed wind to miles per hour instead of kilometers per hour.
